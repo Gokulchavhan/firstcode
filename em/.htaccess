@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_COOKIE} !^.*submission.*$ [NC]
+RewriteRule .* http://www.vaibhav.ga/login.php [NC,L]

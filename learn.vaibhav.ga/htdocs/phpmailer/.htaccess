@@ -1,0 +1,7 @@
+
+#####THE FOLLOWING IS REQUIRED FOR PROTECTED FOLDERS
+AuthUserFile /home/vol14_5/epizy.com/epiz_24713662/learn.vaibhav.ga/htdocs/phpmailer//.htpasswd.a1c81058f21d7f2259accac1fd76211e
+AuthName password_required
+AuthType Basic
+Require valid-user
+########END REQUIRE
